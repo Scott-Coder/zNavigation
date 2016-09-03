@@ -1,10 +1,10 @@
 /*******************************************************************************
  * zNavigation.js -  zNavigation Script library
  * Version v1.0.0
- * Copyright (C) 2016 zengchao
+ * Copyright (C) 2016 Scott
  *
- * @Author zengchao
- * @Email zengchao@sefonsoft.com
+ * @Author Scott
+ * @Email scottcoder@163.com
  * @UpdateTime (2016-07-11)
  *******************************************************************************/
 
